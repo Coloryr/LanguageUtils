@@ -52,7 +52,7 @@ public enum EnumBiome {
 	MOUNTAINS(Biome.MOUNTAINS, "biome.minecraft.mountains"),
 	MUSHROOM_FIELD_SHORE(Biome.MUSHROOM_FIELD_SHORE, "biome.minecraft.mushroom_field_shore"),
 	MUSHROOM_FIELDS(Biome.MUSHROOM_FIELDS, "biome.minecraft.mushroom_fields"),
-	NETHER(Biome.NETHER, "biome.minecraft.nether"),
+	NETHER(Biome.NETHER_WASTES, "biome.minecraft.nether"),
 	OCEAN(Biome.OCEAN, "biome.minecraft.ocean"),
 	PLAINS(Biome.PLAINS, "biome.minecraft.plains"),
 	RIVER(Biome.RIVER, "biome.minecraft.river"),

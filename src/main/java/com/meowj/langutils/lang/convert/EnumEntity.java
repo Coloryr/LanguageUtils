@@ -76,7 +76,7 @@ public enum EnumEntity {
     ZOMBIE(EntityType.ZOMBIE, "entity.minecraft.zombie"),
     SLIME(EntityType.SLIME, "entity.minecraft.slime"),
     GHAST(EntityType.GHAST, "entity.minecraft.ghast"),
-    PIG_ZOMBIE(EntityType.PIG_ZOMBIE, "entity.minecraft.zombie_pigman"),
+    PIG_ZOMBIE(EntityType.ZOMBIFIED_PIGLIN, "entity.minecraft.zombie_pigman"),
     ENDERMAN(EntityType.ENDERMAN, "entity.minecraft.enderman"),
     CAVE_SPIDER(EntityType.CAVE_SPIDER, "entity.minecraft.cave_spider"),
     SILVERFISH(EntityType.SILVERFISH, "entity.minecraft.silverfish"),

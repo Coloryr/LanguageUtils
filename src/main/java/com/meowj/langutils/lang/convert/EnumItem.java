@@ -830,7 +830,7 @@ public enum EnumItem {
     WOLF_SPAWN_EGG(Material.WOLF_SPAWN_EGG, "item.minecraft.wolf_spawn_egg"),
     ZOMBIE_SPAWN_EGG(Material.ZOMBIE_SPAWN_EGG, "item.minecraft.zombie_spawn_egg"),
     ZOMBIE_HORSE_SPAWN_EGG(Material.ZOMBIE_HORSE_SPAWN_EGG, "item.minecraft.zombie_horse_spawn_egg"),
-    ZOMBIE_PIGMAN_SPAWN_EGG(Material.ZOMBIE_PIGMAN_SPAWN_EGG, "item.minecraft.zombie_pigman_spawn_egg"),
+    ZOMBIE_PIGMAN_SPAWN_EGG(Material.PIGLIN_SPAWN_EGG, "item.minecraft.zombie_pigman_spawn_egg"),
     ZOMBIE_VILLAGER_SPAWN_EGG(Material.ZOMBIE_VILLAGER_SPAWN_EGG, "item.minecraft.zombie_villager_spawn_egg"),
     BOTTLE_O_ENCHANTING(Material.EXPERIENCE_BOTTLE, "item.minecraft.experience_bottle"),
     FIRE_CHARGE(Material.FIRE_CHARGE, "item.minecraft.fire_charge"),
